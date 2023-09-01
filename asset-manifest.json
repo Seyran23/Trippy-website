@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Trippy-website/static/css/main.025aae14.css",
+    "main.js": "/Trippy-website/static/js/main.3e937965.js",
+    "static/media/3.jpg": "/Trippy-website/static/media/3.84d5235cc693e15661d6.jpg",
+    "static/media/2.jpg": "/Trippy-website/static/media/2.bbb41348bb839b9124d8.jpg",
+    "static/media/1.jpg": "/Trippy-website/static/media/1.509d4d795248ac9962f3.jpg",
+    "static/media/12.jpg": "/Trippy-website/static/media/12.257c5311e1cae5638aad.jpg",
+    "static/media/8.jpg": "/Trippy-website/static/media/8.9d1ddd2ceb0e8def6f48.jpg",
+    "static/media/10.jpg": "/Trippy-website/static/media/10.b4cae24d2bff7fc2e5f0.jpg",
+    "static/media/5.jpg": "/Trippy-website/static/media/5.46b372902997b3fbd648.jpg",
+    "static/media/4.jpg": "/Trippy-website/static/media/4.0c7885e97d08f0a61db1.jpg",
+    "static/media/night.jpg": "/Trippy-website/static/media/night.ac6d287d5d0014553b87.jpg",
+    "index.html": "/Trippy-website/index.html",
+    "main.025aae14.css.map": "/Trippy-website/static/css/main.025aae14.css.map",
+    "main.3e937965.js.map": "/Trippy-website/static/js/main.3e937965.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.025aae14.css",
+    "static/js/main.3e937965.js"
+  ]
+}
